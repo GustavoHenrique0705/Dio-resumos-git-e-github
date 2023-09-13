@@ -10,7 +10,8 @@ Repositorios para armazenar resumos de git e github, do curso da DIO sobre versi
 ## 💻Resumos das aulas
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alterações no repositório local | [Resumo]()
+| Aula 1  | [Resumo]()
+| Aula 2  | [Resumo]()
 ```
 git init
 ```
